@@ -31,7 +31,7 @@ PostgreSQL
 weather-data-pipeline/
 │
 ├── src/
-│   └── pipeline.py
+│   └── Data Pipeline.ipynb
 ├── requirements.txt
 ├── README.md
 └── .gitignore
