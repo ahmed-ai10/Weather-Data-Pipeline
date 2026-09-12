@@ -1,2 +1,37 @@
-# Weather-Data-Pipeline
-Built an end-to-end weather data pipeline that retrieves real-time data from a Weather API using Python and Requests, validates and transforms it with Pandas, and stores structured data in PostgreSQL. The pipeline provides reliable, analysis-ready weather data for future insights.
+# Weather Data Pipeline
+
+## Overview
+An end-to-end data pipeline that collects weather data from an API, validates and transforms it using Python and Pandas, and stores the processed data in PostgreSQL.
+
+## Pipeline
+
+Weather API
+↓
+Python / Requests
+↓
+Validation & Transformation
+↓
+PostgreSQL
+
+## Technologies
+- Python
+- Requests
+- Pandas
+- PostgreSQL
+
+## Key Features
+- Fetch weather data from an external API
+- Validate and transform incoming data
+- Store structured data in PostgreSQL
+- Prepare data for future analysis
+
+## Project Structure
+
+```text
+weather-data-pipeline/
+│
+├── src/
+│   └── pipeline.py
+├── requirements.txt
+├── README.md
+└── .gitignore
