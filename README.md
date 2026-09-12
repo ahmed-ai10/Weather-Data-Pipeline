@@ -1,7 +1,7 @@
 # Weather Data Pipeline
 
 ## Overview
-![Weather Data Pipeline](images/weather-pipeline.png)
+![Weather Data Pipeline](weather-pipeline.png)
 
 An end-to-end data pipeline that collects weather data from an API, validates and transforms it using Python and Pandas, and stores the processed data in PostgreSQL.
 
